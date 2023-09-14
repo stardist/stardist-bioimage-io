@@ -33,6 +33,17 @@ config:
     - model
   default_type: model
   url_root: https://github.com/stardist/stardist-bioimage-io
+  docs: https://github.com/stardist/stardist 
+  contact:
+    - name: Uwe Schmidt
+      email: research@uweschmidt.org
+      github: uschmidt83
+    - name: Martin Weigert
+      email: martin.weigert@epfl.ch
+      github: maweigert
+      affiliation:
+        - name: EPFL
+          url: https://www.epfl.ch/en/
 
 collection:
   - id: stardist
